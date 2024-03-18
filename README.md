@@ -1,5 +1,4 @@
 ->Using XAMPP create MySQL and create database with name -" java_login_register " and then import sql file
-->Extract FOODZ-final-JAVA-project.zip
-->Open the project in apache NETBEANS
+->Open the foodz project file  in apache NETBEANS
 ->And add JAR files to the project library
 -------> then run it <>
