@@ -16,3 +16,26 @@ Download it directly by clicking on the link (windows) :
 - [Java Development Kit (JDK)](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe)
 - [NetBeans IDE](https://dlcdn.apache.org/netbeans/netbeans-installers/21/Apache-NetBeans-21-bin-windows-x64.exe)
 - [XAMPP](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe) (or similar) for MySQL database management
+# Setup
+- # Database Setup:
+
+- Install XAMPP and start the Apache and MySQL services.
+- Open phpMyAdmin and create a new database named java_login_register.
+- Import the provided SQL file (database.sql) into the newly created database.
+- # NetBeans Setup:
+- 
+- Clone this repository to your local machine.
+- Open NetBeans IDE and navigate to File -> Open Project.
+- Select the Foodz project folder from the cloned repository.
+- # Add JAR Files:
+
+- Right-click on the project in NetBeans and select Properties.
+- Go to Libraries and click Add JAR/Folder.
+- Add any necessary JAR files required for your project dependencies.
+# Usage
+- Once the setup is complete, run the project by clicking the "Run" button in NetBeans.
+
+- Access the application through a web browser at http://localhost:8080/Foodz.
+
+- Register a new account or log in with existing credentials to start using the food ordering system.
+  
