@@ -17,7 +17,7 @@ Download it directly by clicking on the link (windows) :
 - [NetBeans IDE](https://dlcdn.apache.org/netbeans/netbeans-installers/21/Apache-NetBeans-21-bin-windows-x64.exe)
 - [XAMPP](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe) (or similar) for MySQL database management
 # Setup
-- # Database Setup:
+ # Database Setup:
 
 - Install XAMPP and start the Apache and MySQL services.
 - Open phpMyAdmin and create a new database named java_login_register.
